@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/homePageMedia"
+        android:title="@string/home_page"
+        android:icon="@drawable/ic_baseline_menu_24"/>
+
+    <item android:id="@+id/shareMedia"
+        android:title="@string/share"
+        android:icon="@drawable/ic_baseline_add_a_photo_24"/>
+
+    <item android:id="@+id/profile_bottom"
+        android:title="@string/profile"
+        android:icon="@drawable/ic_baseline_person_24"/>
+
+
+</menu>

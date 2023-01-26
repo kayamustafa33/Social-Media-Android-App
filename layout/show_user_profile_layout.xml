@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <ImageView
+        android:id="@+id/showUserProfileCloseLayoutImage"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:src="@drawable/cancel"
+        android:layout_gravity="end"
+        android:layout_margin="10dp"/>
+
+
+    <ImageView
+        android:id="@+id/showUserProfileImageView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/profile"
+        android:layout_margin="20dp"
+        android:padding="10dp"/>
+
+    <TextView
+        android:id="@+id/failTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/fail"
+        android:layout_marginBottom="10dp"
+        android:gravity="center"
+        android:textSize="20sp"
+        android:textColor="@color/white"
+        android:visibility="gone"/>
+
+
+
+</LinearLayout>

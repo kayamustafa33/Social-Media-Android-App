@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@color/app_color"
+    android:orientation="vertical"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:padding="10dp"
+        android:orientation="horizontal">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/requestProfile"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@drawable/profile"
+            android:layout_gravity="center_vertical"/>
+
+        <TextView
+            android:id="@+id/requestName"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:textColor="@color/white"
+            android:layout_marginStart="10dp"
+            android:layout_weight="0.8"
+            android:padding="3dp"
+            android:textSize="15sp"
+            android:text="@string/user_name"/>
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/rejectRequestBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/reject"
+            android:textAllCaps="false"
+            android:layout_marginStart="10dp"
+            android:textSize="14sp"
+            android:textColor="@color/white"
+            android:background="@drawable/signin_bg"/>
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/acceptRequestBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/accept"
+            android:layout_marginStart="5dp"
+            android:textAllCaps="false"
+            android:textSize="14sp"
+            android:textColor="@color/white"
+            android:background="@drawable/signin_bg"/>
+    </LinearLayout>
+
+
+
+</LinearLayout>

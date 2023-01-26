@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">KAYA</string>
+    <string name="name_surname">Name and Surname</string>
+    <string name="e_mail_address">E-mail Address</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="fill_requirements">Fill in the required fields!</string>
+    <string name="dont_macth_password">Passwords do not match!</string>
+    <string name="successful">Successful</string>
+    <string name="fail">Fail!</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="messages">Messages</string>
+    <string name="groups">Groups</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="calls">Calls</string>
+    <string name="logout">Logout</string>
+    <string name="must_8_char">Password must be at least 8 characters!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="type_something">Type something...</string>
+    <string name="delete">Delete</string>
+    <string name="exists_username">This username exists!</string>
+    <string name="user_name">User Name</string>
+    <string name="there_is_no_friend">There is no friend</string>
+    <string name="social_media">Social Media</string>
+    <string name="settings">Settings</string>
+    <string name="meeting">Meeting</string>
+    <string name="online_bank">Online Bank</string>
+    <string name="error">Error!</string>
+    <string name="profile">Profile</string>
+    <string name="friends">Friends</string>
+    <string name="groups2">Groups</string>
+    <string name="clear_chat">Clear Chat</string>
+    <string name="block_user">Block User</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="ok">OK</string>
+    <string name="follow">Follow</string>
+    <string name="following">Following</string>
+    <string name="select_new_profile">Select new profile picture</string>
+    <string name="show_picture">Show picture</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="please_select_image">Please Select Image</string>
+    <string name="share">Share</string>
+    <string name="home_page">Home Page</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="messaging">Messaging</string>
+    <string name="comment">Comment</string>
+    <string name="you_did_not_select_a_picture">You did not select a picture.</string>
+    <string name="permission_gallery">Permission needed for gallery.</string>
+    <string name="give_permission">Give Permission</string>
+    <string name="permission_needed">Permission needed!</string>
+    <string name="comments">Comments</string>
+    <string name="like">Like</string>
+    <string name="select_profile_image">Select a new profile image!</string>
+    <string name="commentDot">Comment...</string>
+    <string name="share_image">Share image</string>
+    <string name="choose_one">Choose one</string>
+    <string name="send_request">Sent Request</string>
+    <string name="there_is_no_friend_request">There is no friend request</string>
+    <string name="reject">Reject</string>
+    <string name="accept">Accept</string>
+    <string name="request_pending">Request pending</string>
+    <string name="choose">Choose</string>
+    <string name="unfollow">Unfollow</string>
+    <string name="you_must_be_friends_before_you_can_write_a_message">You must be friends before you can write a message!</string>
+    <string name="see_profile">See profile</string>
+    <string name="cancel_friend_request">Cancel friend request</string>
+    <string name="friend_request_canceled">Friend request canceled.</string>
+    <string name="my_pictures">My pictures</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="image_isloading">Image is loading...</string>
+    <string name="image_uploaded">Image Uploaded...</string>
+    <string name="call">Call</string>
+    <string name="video_call">Video Call</string>
+    <string name="create_group">Create Group</string>
+    <string name="write_the_group_name">Write The Group Name</string>
+    <string name="group_name">Group Name</string>
+    <string name="write_group_name">Write the group name!</string>
+    <string name="created">Created.</string>
+    <string name="add_friend_for_group">To create a group, you must add friends.</string>
+    <string name="saved">Saved</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
